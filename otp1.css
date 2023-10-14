@@ -1,0 +1,21 @@
+.button{
+    cursor:pointer;
+    font-size: 40px;
+    color:green;
+    margin-top: 105px;
+}
+
+.container{
+    text-align:center;
+    margin-top:200px;
+
+}
+.input{
+    font-size: 40px;
+    width:15%;
+    height:90px;
+
+}
+body{
+    background-color:beige
+}
